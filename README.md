@@ -8,7 +8,7 @@ Hello there, 👋 I'm Roli Gautam&nbsp<img src="https://media.giphy.com/media/AC
 <br><br>
 
 
-- 🔭 ***I'm a shophomore of BTech Computer Science & Engineering at KNIT Sultanpur***</br></br>
+- 🔭 ***I'm a sophomore of BTech Computer Science & Engineering at KNIT Sultanpur***</br></br>
 - 🌱 ***I’m Currently Learning MERN stack development.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
