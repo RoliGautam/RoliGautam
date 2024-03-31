@@ -14,7 +14,7 @@ Hello there, 👋 I'm Roli Gautam&nbsp<img src="https://media.giphy.com/media/AC
 - 👯 ***I want to contribute in open source projects.***</br></br>
 - 🎯 ***2021 Goals: To be an expert of DSA and Algorithm.***</br></br>
 - 💬 ***Ask me about: Web Development.***</br></br>
-- 📫 ***How to reach me: roligautam118@gmail.com / roligautam4@gmail.com / roli.19248@knit.ac.in***</br></br>
+- 📫 ***How to reach me: roligautam118@gmail.com***</br></br>
 - 😄 ***Pronouns: She/her***</br></br>
 - ⚡ ***Fun fact: I like to watch cartoons and fairy tales.*** 😂</br></br>
 
