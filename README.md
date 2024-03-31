@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/roli-gautam4/"><img align="center" src="https://github.com/RoliGautam/RoliGautam/blob/main/WhatsApp%20Image%202021-04-07%20at%2012.23.45%20PM%20(1).jpeg"/></a>
-
-
 <h1  align="center" > 
 Hello there, 👋 I'm Roli Gautam&nbsp<img src="https://media.giphy.com/media/ACdlsmViQciA8BfGp3/giphy.gif"  width=140px height=30px></h1>
 <h3 align="center">A Girl trying to find out opportunities and learning new technologies!</h3>
