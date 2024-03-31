@@ -8,12 +8,12 @@ Hello there, 👋 I'm Roli Gautam&nbsp<img src="https://media.giphy.com/media/AC
 <br><br>
 
 
-- 🔭 ***I'm a sophomore of BTech Computer Science & Engineering at KNIT Sultanpur***</br></br>
-- 🌱 ***I’m Currently Learning MERN stack development.***</br></br>
-- 🥅 ***I’m focusing on Competitive Programming.***</br></br>
-- 👯 ***I want to contribute in open source projects.***</br></br>
-- 🎯 ***2021 Goals: To be an expert of DSA and Algorithm.***</br></br>
-- 💬 ***Ask me about: Web Development.***</br></br>
+- 🔭 ***Completed B.Tech in Computer Science and Engineering in 2023 from KNIT Sultanpur.***</br></br>
+- 🌱 ***Embarking on a journey to master MERN development!***</br></br>
+- 👯 ***Ready to dive into open-source waters and make a splash. Let's collaborate and create impactful projects together.***</br></br>
+- 🥅 ***Mastering competitive programming to excel in algorithmic challenges.***</br></br>
+- 🎯 ***2024 Goals: To solve 500 DSA problems on Leetcode***</br></br>
+- 💬 ***Ask me about: Full Stack Development, DSA, Open Source***</br></br>
 - 📫 ***How to reach me: roligautam118@gmail.com***</br></br>
 - 😄 ***Pronouns: She/her***</br></br>
 - ⚡ ***Fun fact: I like to watch cartoons and fairy tales.*** 😂</br></br>
